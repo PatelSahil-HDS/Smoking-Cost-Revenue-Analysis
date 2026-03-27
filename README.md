@@ -22,4 +22,7 @@ Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
 - Trends highlight the need for stronger public health interventions
 
 ## Skills
-Data Cleaning • Data Analysis • Data Visualization • Public Health Analytics
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Public Health Analytics
