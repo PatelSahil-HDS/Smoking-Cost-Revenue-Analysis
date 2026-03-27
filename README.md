@@ -1,28 +1,35 @@
 # Smoking Cost & Revenue Analysis (U.S.)
-End-to-end data analysis of smoking-related economic costs in the U.S. using Python (Pandas, NumPy), featuring data preprocessing, aggregation, and insightful visualizations.
+Smoking Cost &amp; Revenue Report Generator for U.S. States using Python
 
-## Overview
+# Overview
+This project analyzes the economic impact of smoking across U.S. states by comparing healthcare costs and cigarette tax revenue.
 
-This project analyzes smoking-attributable economic costs in the United States using Python. It focuses on identifying trends, comparing cost categories, and summarizing insights from public health data.
+# Data Sources
+- CDC Smoking-Attributable Expenditures (SAE)
+- Cigarette Tax Revenue Data
+- U.S. States GeoJSON
 
-## Tools
+# Tools & Technologies
+- Python (Pandas, NumPy)
+- Seaborn, Matplotlib
+- Plotly, GeoPandas
 
-Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
-
-## Features
-
+# Key Features
 - Data cleaning and preprocessing
-- Aggregation using groupby and pivot tables
-- Trend analysis across years
-- Data visualization
+- Cost vs Revenue analysis
+- Pivot tables and trend analysis
+- Correlation analysis
+- Choropleth map visualization
+- Automated reporting tool
 
-## Key Insights
-- Smoking-related costs show a consistent economic burden over time
-- Healthcare expenditures make up the largest share of total cost
-- Trends highlight the need for stronger public health interventions
-
-## Skills
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-- Public Health Analytics
+# Key Insights
+- Smoking-related healthcare costs increased significantly from 2005 to 2009  
+- Hospital expenses contributed the largest share of total costs  
+- Cigarette tax revenue also increased but remained much lower than costs  
+- Strong positive correlation between cost and revenue (r ≈ 0.85–0.97)  
+- Indicates a tradeoff between economic revenue and public health burden
+  
+# Project Structure
+- Notebook file (.ipynb)
+- Data files (CSV)
+- GeoJSON file
