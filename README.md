@@ -11,10 +11,10 @@ Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
 
 ## Features
 
-Data cleaning and preprocessing
-Aggregation using groupby and pivot tables
-Trend analysis across years
-Data visualization
+- Data cleaning and preprocessing
+- Aggregation using groupby and pivot tables
+- Trend analysis across years
+- Data visualization
 
 ## Key Insights
 - Smoking-related costs show a consistent economic burden over time
