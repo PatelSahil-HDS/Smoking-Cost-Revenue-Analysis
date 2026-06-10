@@ -1,5 +1,7 @@
 # U.S. Smoking Cost & Revenue Analysis
 
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-data-150458?logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-choropleth-3F4F75?logo=plotly&logoColor=white) ![License](https://img.shields.io/github/license/PatelSahil-HDS/Smoking-Cost-Revenue-Analysis)
+
 State-level analysis of the gap between smoking-attributable healthcare costs and cigarette tax revenue across U.S. states (2005–2009). Built in a single Jupyter notebook with pandas, matplotlib, and plotly choropleth maps.
 
 ## What's in here
